@@ -1,0 +1,12 @@
+{
+    "boolean": "a type of variable that stores either true or flase",
+    "class": "a method of creating a user defined object (I took a previous course for Python and I really cannot think of any other terms we have learned thus far so I will use this)",
+    "concatenation": "a method of joining string or non-string variables together",
+    "dictionary": "Python data type which stores key value pairs",
+    "list": "a storage medium that stores a list of variables",
+    "loop": "a method used to repeat a segment of code until a certain condition is met",
+    "print": "a method used to display an output to the user",
+    "python": "a general-purpose programming language emphasizing code readability with its use of indentation",
+    "tuple": "a list of items that do not change",
+    "variable": "a storage medium that stores one piece of data of a single type at a time"
+}

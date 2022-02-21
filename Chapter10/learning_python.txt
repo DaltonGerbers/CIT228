@@ -1,0 +1,5 @@
+In Python you can do a majority of the things you can do in other coding languages.
+In Python you can write code without ending lines with semicolons.
+In Python you can seperate blocks of code using indentation rather than curly braces.
+In Python you can declare a variable without declaring a data type.
+In Python you can alter the size of an array after it is declared.
